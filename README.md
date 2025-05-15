@@ -12,6 +12,7 @@ Este proyecto simula un entorno controlado para realizar pruebas de hacking éti
 - Wireshark
 
 ## Estructura del proyecto
+´´´
 lab-hacking-etico/
 │
 ├── docs/                    # Documentación técnica (PDFs, informes)
@@ -27,6 +28,7 @@ lab-hacking-etico/
 │
 ├── README.md                # Descripción completa del proyecto
 └── .gitignore
+´´´
 
 ## Autor
 Ángel Gabriel Macocco
